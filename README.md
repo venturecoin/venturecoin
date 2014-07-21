@@ -6,14 +6,6 @@ Bitcoin Developers
 * Copyright (c) 2011-2013 Litecoin Developers
 * Copyright (c) 2013-2014 Venturecoin Developers
 
-What is Venturecoin?
-----------------
-
-Venturecoin is a version of Litecoin that provides extra privacy features.
- - 2 minute block 
-targets
- - 7 million coins, 1000 coin reward, halving every 720 blocks
- - Kimoto's Gravity Well
 
 License
 -------
